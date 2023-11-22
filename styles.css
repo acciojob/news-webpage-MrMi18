@@ -2,9 +2,10 @@
 .container{
 	background:lightgray;
 /* 	margin-top:-20px; */
-	padding:20px;
+	padding:25px;
 	display:flex;
 	justify-content:center;
+	
 }
 .latest-news-section{
 	margin:10px;
